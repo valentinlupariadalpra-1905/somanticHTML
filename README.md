@@ -1,1 +1,54 @@
-# somanticHTML
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Actividad 2 - Luparia </title>
+    <link rel="stylesheet" href="style.CSS">
+</head>
+<body>
+    <header>
+    <h1>¿Como hacer una milanesa con pure?</h1>
+    <img src="https://cuk-it.com/wp-content/uploads/2024/07/milanesas-pure-ig-1-819x1024.webp" alt="Milanesa con pure">
+        <nav>
+<ul>
+    <li><a href="index.html">inicio</a></li>
+    <li><a href="seccion1.html">Ingredientes</a></li>
+    <li><a href="seccion2.html">Descripción</a></li>
+</ul>
+        </nav>   
+    </header>
+    <main>
+        <section>
+            <h2>Ingredientes</h2>
+            <article>
+                <h3>Para la milanesa</h3>
+                <ul>
+                     <li><p>1kg de carne</p></li>
+                     <li><p>4 huevos</p></li>
+                     <li><p>500 g de pan rallado</p></li>
+                     <li><p>Sal y pimienta</p></li>
+                     <li><p>aceite para freir</p></li>
+                </ul>
+                <h3>Para el pure</h3>
+                <ul>
+                     <li><p>1kg de papas</p></li>
+                     <li><p>100 g de manteca</p></li>
+                     <li><p>1 taza de leche</p></li>
+                     <li><p>3 cucharadas de queso crema o rallado</p></li>
+                </ul>
+            </article>
+             <h2>Descripcion</h2>
+            <article>
+        <p>La milanesa con puré es uno de los platos más emblemáticos, populares y tradicionales de la gastronomía argentina y rioplatense. Combina una pieza de carne empanada y cocida con una guarnición cremosa de papas pisadas, logrando un equilibrio clásico de texturas entre lo crocante y lo suave.</p>
+            </article>
+           <article>
+                    <a href="https://www.youtube.com/watch?v=bNbce92tBlc"> video de receta de milanesa con pure/a>
+            </article>
+</main>  
+    <footer>
+        <a href="nombre-de-la-pagina.html">Proyecto de Informática - Milanesa con pure</a>
+    </footer>
+</body>
+</html>
