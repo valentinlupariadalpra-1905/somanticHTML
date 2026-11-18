@@ -1,0 +1,25 @@
+h1 {
+    color: darkslategray;
+    font-size: x-large;
+}
+li {
+    color: rgb(231, 99, 99);
+    font-size: small;
+}
+h2 {
+    font-size: large;
+    color: rgb(29, 57, 85);
+}
+h3{
+    font-size: medium;
+    color: rgb(31, 71, 30);
+}
+footer{
+    font-size: small;
+}
+img{
+    size: 10cm;
+}
+p{
+    font-size: small;
+}
